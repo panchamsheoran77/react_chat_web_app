@@ -1,0 +1,29 @@
+/* User Action Types */
+export const SET_USER = "SET_USER";
+export const CLEAR_USER = "CLEAR_USER";
+
+/* Channel Action Types */
+export const SET_CURRENT_CHANNEL = "SET_CURRENT_CHANNEL";
+export const SET_PRIVATE_CHANNEL = "SET_PRIVATE_CHANNEL";
+export const SET_URL_CHANNEL_ID = "SET_URL_CHANNEL_ID";
+export const SET_USER_POSTS = "SET_USER_POSTS";
+export const SET_SIDE_BAR = "SET_SIDE_BAR";
+export const SET_META_DISPALY = "SET_META_DISPLAY";
+export const SET_CHANNEL_USERS="SET_CHANNEL_USERS";
+export const SET_PREVIOUS_CHANNEL_LISTENERS="SET_PREVIOUS_CHANNEL_LISTENERS";
+export const REMOVE_PREVIOUS_CHANNEL_LISTENERS="REMOVE_PREVIOUS_CHANNEL_LISTENERS";
+
+// Message Action Types 
+export const SET_USER_BLOCK_STATUS="SET_USER_BLOCK_STATUS";
+export const SET_REPLY_BOX="SET_REPLY_BOX";
+export const SET_REPLY_MSG="SET_REPLY_MSG";
+export const SET_REPLY_IMAGE="SET_REPLY_IMAGE";
+export const SET_MESSAGE_INFO_VISIBLE="SET_MESSAGE_INFO_VISIBLE";
+export const SET_MESSAGE_REF="SET_MESSAGE_REF";
+
+
+/* Colors Action Types */
+export const SET_COLORS = "SET_COLORS";
+
+
+
